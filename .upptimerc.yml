@@ -24,7 +24,7 @@ status-website:
   cname: piped.faith
   # baseUrl: /your-repo-name
   logoUrl: https://watch.whatever.social/favicon.ico
-  themeUrl: https://privacytime101.github.io/PipedStatus/custom.css
+  themeUrl: https://privacytime101.github.io/PipedStatus/assets/custom.css
   name: Piped Status
   introTitle: "Piped Status"
   introMessage: "See what's happening in the Pipedverse. Maintained by whatever.social and horizon.pics, powered by Upptime."
