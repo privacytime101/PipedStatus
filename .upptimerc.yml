@@ -1,12 +1,19 @@
 # Change these first
 owner: privacytime101 # Your GitHub organization or username, where this repository lives
 repo: PipedStatus # The name of this repository
+user-agent: privacytime101
 
 sites:
   - name: Google
     url: https://www.google.com
+    expectedStatusCodes:
+      - 200
+      - 201
   - name: Kavin Instance
     url: https://piped.kavin.rocks
+    expectedStatusCodes:
+      - 200
+      - 201
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
