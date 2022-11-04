@@ -1,7 +1,7 @@
 url: https://pipedapi.qdi.fi
-status: up
-code: 200
-responseTime: 748
-lastUpdated: 2022-11-04T02:36:16.857Z
+status: down
+code: 503
+responseTime: 364
+lastUpdated: 2022-11-04T17:40:37.797Z
 startTime: Fri Nov 04 2022 00:43:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
