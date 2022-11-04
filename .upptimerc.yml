@@ -7,16 +7,158 @@ assignees:
 user-agent: privacytime101
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Kavin Rocks (🇺🇸, 🇮🇳, 🇳🇱, 🇨🇦, 🇬🇧 - CDN)
+    url: https://pipedapi.kavin.rocks
     expectedStatusCodes:
       - 200
       - 201
-  - name: Kavin Instance
-    url: https://piped.kavin.rocks
+      - 403
+      - 302
+  - name: Tokhmi (🇺🇸 - CDN)
+    url: https://pipedapi.tokhmi.xyz
     expectedStatusCodes:
       - 200
       - 201
+      - 302
+  - name: Moomoo (🇬🇧 - CDN)
+    url: https://pipedapi.moomoo.me
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
+  - name: Syncpundit (🇺🇸, 🇬🇧, 🇯🇵 - CDN)
+    url: https://pipedapi.syncpundit.io
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
+  - name: MHA (🇫🇮 - CDN)
+    url: https://api-piped.mha.fi
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
+  - name: Whatever Social (🇺🇸 - CDN)
+    url: https://watchapi.whatever.social
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
+  - name: Garuda Linux (🇫🇮 - CDN)
+    url: https://piped-api.garudalinux.org
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
+  - name: Rivo (🇨🇱 - CDN)
+    url: https://pipedapi.rivo.lol
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
+  - name: Aeong (🇰🇷 - CDN)
+    url: https://pipedapi.aeong.one
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
+  - name: Rivo (🇨🇱 - CDN)
+    url: https://pipedapi.rivo.lol
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
+  - name: Kavin Rocks Libre (🇳🇱)
+    url: https://pipedapi-libre.kavin.rocks
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
+  - name: JaeFi (🇫🇮)
+    url: https://api.yt.jae.fi
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
+  - name: Mint (🇨🇦)
+    url: https://pa.mint.lgbt
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
+  - name: IL (🇺🇸)
+  url: https://pa.il.ax
+  expectedStatusCodes:
+    - 200
+    - 201
+    - 302
+  - name: Privacy (🇩🇪)
+   url: https://piped-api.privacy.com.de
+   expectedStatusCodes:
+    - 200
+    - 201
+    - 302
+  - name: Esmailelbob (🇨🇦)
+    url: https://pipedapi.esmailelbob.xyz
+    expectedStatusCodes:
+    - 200
+    - 201
+    - 302
+  - name: Project Segfault (🇫🇷)
+    url: https://api.piped.projectsegfau.lt
+    expectedStatusCodes:
+    - 200
+    - 201
+    - 302
+  - name: PrivacyDev (🇺🇸)
+    url: https://api.piped.privacydev.net
+    expectedStatusCodes:
+    - 200
+    - 201
+    - 302
+  - name: Palveluntarjoaja (🇫🇷)
+    url: https://pipedapi.palveluntarjoaja.eu
+    expectedStatusCodes:
+    - 200
+    - 201
+    - 302
+  - name: PrivacyDev (🇺🇸)
+    url: https://api.piped.privacydev.net
+    expectedStatusCodes:
+    - 200
+    - 201
+    - 302
+  - name: Plibre (🇮🇸)
+    url: https://p.plibre.com
+    expectedStatusCodes:
+    - 200
+    - 201
+    - 302
+  - name: Smnz (🇩🇪)
+    url: https://pipedapi.smnz.de
+    expectedStatusCodes:
+    - 200
+    - 201
+    - 302
+  - name: Adminforge (🇩🇪)
+    url: https://pipedapi.adminforge.de
+    expectedStatusCodes:
+    - 200
+    - 201
+    - 302
+  - name: Whatever Tinfoil (🇩🇪)
+    url: https://watchapi.whatevertinfoil.de
+    expectedStatusCodes:
+    - 200
+    - 201
+    - 302
+  - name: Qdi (🇺🇸)
+    url: https://pipedapi.qdi.fi
+    expectedStatusCodes:
+    - 200
+    - 201
+    - 302
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
