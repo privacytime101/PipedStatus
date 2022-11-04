@@ -115,12 +115,6 @@ sites:
     - 200
     - 201
     - 302
-  - name: PrivacyDev (🇺🇸)
-    url: https://api.piped.privacydev.net
-    expectedStatusCodes:
-    - 200
-    - 201
-    - 302
   - name: Plibre (🇮🇸)
     url: https://p.plibre.com
     expectedStatusCodes:
