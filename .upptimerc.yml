@@ -56,6 +56,7 @@ sites:
       - 200
       - 201
       - 302
+      - 403
   - name: Aeong (🇰🇷 - CDN)
     url: https://pipedapi.aeong.one
     expectedStatusCodes:
@@ -169,7 +170,7 @@ status-website:
   themeUrl: https://cdn.statically.io/gh/privacytime101/PipedStatus/master/assets/custom.css
   name: Piped Status
   introTitle: "Piped Status"
-  introMessage: "See what's happening in the Pipedverse. Maintained by whatever.social and horizon.pics, powered by Upptime."
+  introMessage: "See what's happening in the Pipedverse. Maintained by whatever.social and horizon.pics, powered by Upptime. Response times are not accurate."
   navbar:
     - title: Piped Status
       href: /
