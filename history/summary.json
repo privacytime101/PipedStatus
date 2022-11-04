@@ -70,7 +70,7 @@
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2022-11-04": 856
+      "2022-11-04": 897
     }
   },
   {
@@ -144,7 +144,7 @@
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2022-11-04": 856
+      "2022-11-04": 897
     }
   },
   {
@@ -164,7 +164,7 @@
     "timeMonth": 172,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2022-11-04": 856
+      "2022-11-04": 897
     }
   },
   {
@@ -245,18 +245,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/piped-api.privacy.com.de.ico",
     "slug": "privacy",
     "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
+    "uptime": "0.17%",
+    "uptimeDay": "0.17%",
+    "uptimeWeek": "0.17%",
+    "uptimeMonth": "0.17%",
+    "uptimeYear": "0.17%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-04": 854
+      "2022-11-04": 895
     }
   },
   {
@@ -282,19 +282,19 @@
     "url": "https://api.piped.projectsegfau.lt",
     "icon": "https://icons.duckduckgo.com/ip3/api.piped.projectsegfau.lt.ico",
     "slug": "project-segfault",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1258,
-    "timeDay": 1258,
-    "timeWeek": 1258,
-    "timeMonth": 1258,
-    "timeYear": 1258,
+    "status": "up",
+    "uptime": "95.42%",
+    "uptimeDay": "95.42%",
+    "uptimeWeek": "95.42%",
+    "uptimeMonth": "95.42%",
+    "uptimeYear": "95.42%",
+    "time": 1242,
+    "timeDay": 1242,
+    "timeWeek": 1242,
+    "timeMonth": 1242,
+    "timeYear": 1242,
     "dailyMinutesDown": {
-      "2022-11-04": 0
+      "2022-11-04": 41
     }
   },
   {
@@ -350,7 +350,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-04": 854
+      "2022-11-04": 895
     }
   },
   {
@@ -359,11 +359,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.smnz.de.ico",
     "slug": "smnz",
     "status": "up",
-    "uptime": "94.59%",
-    "uptimeDay": "94.59%",
-    "uptimeWeek": "94.59%",
-    "uptimeMonth": "94.59%",
-    "uptimeYear": "94.59%",
+    "uptime": "94.84%",
+    "uptimeDay": "94.84%",
+    "uptimeWeek": "94.84%",
+    "uptimeMonth": "94.84%",
+    "uptimeYear": "94.84%",
     "time": 2404,
     "timeDay": 2404,
     "timeWeek": 2404,
