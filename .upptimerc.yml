@@ -87,8 +87,8 @@ sites:
       - 201
       - 302
   - name: IL (🇺🇸)
-  url: https://pa.il.ax
-  expectedStatusCodes:
+    url: https://pa.il.ax
+    expectedStatusCodes:
     - 200
     - 201
     - 302
