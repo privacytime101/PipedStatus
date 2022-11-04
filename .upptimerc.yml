@@ -61,12 +61,6 @@ sites:
       - 200
       - 201
       - 302
-  - name: Rivo (🇨🇱 - CDN)
-    url: https://pipedapi.rivo.lol
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 302
   - name: Kavin Rocks Libre (🇳🇱)
     url: https://pipedapi-libre.kavin.rocks
     expectedStatusCodes:
