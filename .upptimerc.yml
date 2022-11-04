@@ -93,8 +93,8 @@ sites:
     - 201
     - 302
   - name: Privacy (🇩🇪)
-   url: https://piped-api.privacy.com.de
-   expectedStatusCodes:
+    url: https://piped-api.privacy.com.de
+    expectedStatusCodes:
     - 200
     - 201
     - 302
