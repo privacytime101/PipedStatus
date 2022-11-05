@@ -70,7 +70,7 @@
     "timeMonth": 144,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2022-11-05": 341,
+      "2022-11-05": 570,
       "2022-11-04": 1399
     }
   },
@@ -145,7 +145,7 @@
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2022-11-05": 341,
+      "2022-11-05": 571,
       "2022-11-04": 1399
     }
   },
@@ -166,7 +166,7 @@
     "timeMonth": 157,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2022-11-05": 341,
+      "2022-11-05": 571,
       "2022-11-04": 1398
     }
   },
@@ -230,18 +230,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pa.il.ax.ico",
     "slug": "il",
     "status": "down",
-    "uptime": "93.03%",
-    "uptimeDay": "91.58%",
-    "uptimeWeek": "93.03%",
-    "uptimeMonth": "93.03%",
-    "uptimeYear": "93.03%",
+    "uptime": "82.20%",
+    "uptimeDay": "75.66%",
+    "uptimeWeek": "82.20%",
+    "uptimeMonth": "82.20%",
+    "uptimeYear": "82.20%",
     "time": 609,
     "timeDay": 474,
     "timeWeek": 609,
     "timeMonth": 609,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2022-11-05": 121
+      "2022-11-05": 351
     }
   },
   {
@@ -250,18 +250,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/piped-api.privacy.com.de.ico",
     "slug": "privacy",
     "status": "down",
-    "uptime": "0.09%",
+    "uptime": "0.08%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-05": 341,
+      "2022-11-05": 571,
       "2022-11-04": 1397
     }
   },
@@ -270,19 +270,19 @@
     "url": "https://pipedapi.esmailelbob.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.esmailelbob.xyz.ico",
     "slug": "esmailelbob",
-    "status": "up",
-    "uptime": "95.10%",
-    "uptimeDay": "94.09%",
-    "uptimeWeek": "95.10%",
-    "uptimeMonth": "95.10%",
-    "uptimeYear": "95.10%",
-    "time": 835,
-    "timeDay": 962,
-    "timeWeek": 835,
-    "timeMonth": 835,
-    "timeYear": 835,
+    "status": "down",
+    "uptime": "96.21%",
+    "uptimeDay": "94.82%",
+    "uptimeWeek": "96.21%",
+    "uptimeMonth": "96.21%",
+    "uptimeYear": "96.21%",
+    "time": 816,
+    "timeDay": 920,
+    "timeWeek": 816,
+    "timeMonth": 816,
+    "timeYear": 816,
     "dailyMinutesDown": {
-      "2022-11-05": 11,
+      "2022-11-05": 0,
       "2022-11-04": 74
     }
   },
@@ -292,11 +292,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.piped.projectsegfau.lt.ico",
     "slug": "project-segfault",
     "status": "up",
-    "uptime": "97.64%",
+    "uptime": "97.91%",
     "uptimeDay": "97.15%",
-    "uptimeWeek": "97.64%",
-    "uptimeMonth": "97.64%",
-    "uptimeYear": "97.64%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "97.91%",
+    "uptimeYear": "97.91%",
     "time": 1927,
     "timeDay": 3599,
     "timeWeek": 1927,
@@ -359,7 +359,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-05": 341,
+      "2022-11-05": 571,
       "2022-11-04": 1397
     }
   },
@@ -369,11 +369,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.smnz.de.ico",
     "slug": "smnz",
     "status": "up",
-    "uptime": "97.34%",
+    "uptime": "97.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.34%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "97.34%",
+    "uptimeWeek": "97.65%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "97.65%",
     "time": 2348,
     "timeDay": 2010,
     "timeWeek": 2348,
@@ -425,18 +425,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.qdi.fi.ico",
     "slug": "qdi",
     "status": "down",
-    "uptime": "58.53%",
-    "uptimeDay": "49.95%",
-    "uptimeWeek": "58.53%",
-    "uptimeMonth": "58.53%",
-    "uptimeYear": "58.53%",
+    "uptime": "51.71%",
+    "uptimeDay": "34.03%",
+    "uptimeWeek": "51.71%",
+    "uptimeMonth": "51.71%",
+    "uptimeYear": "51.71%",
     "time": 528,
     "timeDay": 347,
     "timeWeek": 528,
     "timeMonth": 528,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2022-11-05": 341,
+      "2022-11-05": 571,
       "2022-11-04": 379
     }
   }
