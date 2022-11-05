@@ -70,7 +70,7 @@
     "timeMonth": 144,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2022-11-05": 1109,
+      "2022-11-05": 1172,
       "2022-11-04": 1399
     }
   },
@@ -145,7 +145,7 @@
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2022-11-05": 1109,
+      "2022-11-05": 1172,
       "2022-11-04": 1399
     }
   },
@@ -166,7 +166,7 @@
     "timeMonth": 157,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2022-11-05": 1109,
+      "2022-11-05": 1172,
       "2022-11-04": 1398
     }
   },
@@ -212,18 +212,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pa.mint.lgbt.ico",
     "slug": "mint",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "97.51%",
+    "uptimeDay": "95.56%",
+    "uptimeWeek": "97.51%",
+    "uptimeMonth": "97.51%",
+    "uptimeYear": "97.51%",
     "time": 1046,
     "timeDay": 824,
     "timeWeek": 1046,
     "timeMonth": 1046,
     "timeYear": 1046,
     "dailyMinutesDown": {
-      "2022-11-05": 2
+      "2022-11-05": 64
     }
   },
   {
@@ -232,18 +232,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pa.il.ax.ico",
     "slug": "il",
     "status": "down",
-    "uptime": "64.54%",
-    "uptimeDay": "38.24%",
-    "uptimeWeek": "64.54%",
-    "uptimeMonth": "64.54%",
-    "uptimeYear": "64.54%",
+    "uptime": "62.97%",
+    "uptimeDay": "33.92%",
+    "uptimeWeek": "62.97%",
+    "uptimeMonth": "62.97%",
+    "uptimeYear": "62.97%",
     "time": 609,
     "timeDay": 474,
     "timeWeek": 609,
     "timeMonth": 609,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2022-11-05": 889
+      "2022-11-05": 952
     }
   },
   {
@@ -263,7 +263,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-05": 1109,
+      "2022-11-05": 1172,
       "2022-11-04": 1397
     }
   },
@@ -273,11 +273,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.esmailelbob.xyz.ico",
     "slug": "esmailelbob",
     "status": "up",
-    "uptime": "95.54%",
+    "uptime": "95.64%",
     "uptimeDay": "96.05%",
-    "uptimeWeek": "95.54%",
-    "uptimeMonth": "95.54%",
-    "uptimeYear": "95.54%",
+    "uptimeWeek": "95.64%",
+    "uptimeMonth": "95.64%",
+    "uptimeYear": "95.64%",
     "time": 882,
     "timeDay": 959,
     "timeWeek": 882,
@@ -294,11 +294,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.piped.projectsegfau.lt.ico",
     "slug": "project-segfault",
     "status": "up",
-    "uptime": "98.36%",
+    "uptime": "98.40%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "98.36%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "98.40%",
     "time": 1927,
     "timeDay": 6035,
     "timeWeek": 1927,
@@ -331,18 +331,20 @@
     "url": "https://pipedapi.palveluntarjoaja.eu",
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.palveluntarjoaja.eu.ico",
     "slug": "palveluntarjoaja",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1149,
-    "timeDay": 1366,
-    "timeWeek": 1149,
-    "timeMonth": 1149,
-    "timeYear": 1149,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1061,
+    "timeDay": 950,
+    "timeWeek": 1061,
+    "timeMonth": 1061,
+    "timeYear": 1061,
+    "dailyMinutesDown": {
+      "2022-11-05": 0
+    }
   },
   {
     "name": "Plibre (🇮🇸)",
@@ -361,7 +363,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-05": 1109,
+      "2022-11-05": 1172,
       "2022-11-04": 1397
     }
   },
@@ -371,11 +373,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.smnz.de.ico",
     "slug": "smnz",
     "status": "up",
-    "uptime": "98.16%",
+    "uptime": "98.20%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "98.16%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "98.20%",
+    "uptimeYear": "98.20%",
     "time": 2348,
     "timeDay": 2010,
     "timeWeek": 2348,
@@ -427,11 +429,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.qdi.fi.ico",
     "slug": "qdi",
     "status": "up",
-    "uptime": "42.70%",
-    "uptimeDay": "3.67%",
-    "uptimeWeek": "42.70%",
-    "uptimeMonth": "42.70%",
-    "uptimeYear": "42.70%",
+    "uptime": "44.09%",
+    "uptimeDay": "7.99%",
+    "uptimeWeek": "44.09%",
+    "uptimeMonth": "44.09%",
+    "uptimeYear": "44.09%",
     "time": 544,
     "timeDay": 492,
     "timeWeek": 544,
