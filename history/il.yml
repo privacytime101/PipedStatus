@@ -1,7 +1,7 @@
 url: https://pa.il.ax
-status: up
-code: 200
-responseTime: 610
-lastUpdated: 2022-11-06T16:27:52.383Z
+status: down
+code: 503
+responseTime: 321
+lastUpdated: 2022-11-06T20:35:13.269Z
 startTime: Fri Nov 04 2022 00:41:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
