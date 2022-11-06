@@ -155,10 +155,10 @@ status-website:
   logoUrl: https://watch.whatever.social/favicon.ico
   themeUrl: https://cdn.statically.io/gh/privacytime101/PipedStatus/master/assets/custom.css
   name: Piped Status
-  introTitle: "Piped Status"
+  introTitle: "In Piped We Trust"
   introMessage: "See what's happening in the Pipedverse. Maintained by whatever.social and horizon.pics, powered by Upptime. Response times are not accurate."
   navbar:
-    - title: Piped Status
+    - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
