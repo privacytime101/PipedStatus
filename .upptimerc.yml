@@ -31,6 +31,7 @@ sites:
       - 200
       - 201
       - 302
+      - 521
   - name: MHA (🇫🇮 - CDN)
     url: https://api-piped.mha.fi
     expectedStatusCodes:
