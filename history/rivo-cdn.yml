@@ -1,7 +1,7 @@
 url: https://pipedapi.rivo.lol
-status: up
-code: 200
-responseTime: 767
-lastUpdated: 2022-11-09T21:54:10.991Z
+status: down
+code: 503
+responseTime: 108
+lastUpdated: 2022-11-09T22:29:30.807Z
 startTime: Fri Nov 04 2022 00:41:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
