@@ -1,7 +1,7 @@
 url: https://pipedapi.palveluntarjoaja.eu
-status: down
-code: 503
-responseTime: 646
-lastUpdated: 2022-11-13T23:31:51.806Z
+status: up
+code: 200
+responseTime: 977
+lastUpdated: 2022-11-14T00:32:43.334Z
 startTime: Fri Nov 04 2022 00:43:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
