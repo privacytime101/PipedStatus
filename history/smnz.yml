@@ -1,7 +1,7 @@
 url: https://pipedapi.smnz.de
-status: down
-code: 404
-responseTime: 554
-lastUpdated: 2022-11-17T21:21:04.812Z
+status: up
+code: 200
+responseTime: 1705
+lastUpdated: 2022-11-17T21:32:25.125Z
 startTime: Fri Nov 04 2022 00:43:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
