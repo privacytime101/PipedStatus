@@ -1,7 +1,7 @@
 url: https://pipedapi-libre.kavin.rocks
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-11-18T23:22:18.448Z
+status: up
+code: 200
+responseTime: 901
+lastUpdated: 2022-11-19T01:00:54.785Z
 startTime: Fri Nov 04 2022 00:41:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
