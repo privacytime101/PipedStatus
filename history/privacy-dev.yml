@@ -1,7 +1,7 @@
 url: https://api.piped.privacydev.net
-status: down
-code: 502
-responseTime: 213
-lastUpdated: 2022-11-22T18:00:09.655Z
+status: up
+code: 200
+responseTime: 799
+lastUpdated: 2022-11-22T18:26:02.367Z
 startTime: Fri Nov 04 2022 00:43:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
