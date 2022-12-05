@@ -1,7 +1,7 @@
 url: https://api.piped.projectsegfau.lt
-status: up
-code: 200
-responseTime: 963
-lastUpdated: 2022-12-04T23:16:34.167Z
+status: down
+code: 502
+responseTime: 855
+lastUpdated: 2022-12-05T04:19:35.808Z
 startTime: Fri Nov 04 2022 00:43:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
