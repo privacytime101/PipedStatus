@@ -1,7 +1,7 @@
 url: https://pipedapi.esmailelbob.xyz
-status: up
-code: 200
-responseTime: 1403
-lastUpdated: 2022-12-08T18:25:06.031Z
+status: down
+code: 502
+responseTime: 584
+lastUpdated: 2022-12-08T20:30:21.321Z
 startTime: Fri Nov 04 2022 00:43:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
